@@ -1,0 +1,5 @@
+Caption:
+a man walking a group of dogs on a leash
+
+Detected Objects:
+person, dog

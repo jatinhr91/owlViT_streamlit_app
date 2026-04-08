@@ -1,0 +1,5 @@
+Caption:
+a living room filled with furniture and a flat screen tv
+
+Detected Objects:
+tv, couch, dining table
